@@ -1,0 +1,33 @@
+{
+  "next_id": 6,
+  "expenses": [
+    {
+      "id": 1,
+      "amount": 200.0,
+      "category": "Work",
+      "description": "Claude Pro subscription",
+      "date": "2026-01-31 12:54"
+    },
+    {
+      "id": 3,
+      "amount": 25.5,
+      "category": "Food",
+      "description": "Lunch at cafe",
+      "date": "2026-01-31 13:47"
+    },
+    {
+      "id": 4,
+      "amount": 15.0,
+      "category": "Transport",
+      "description": "Uber ride",
+      "date": "2026-01-31 13:47"
+    },
+    {
+      "id": 5,
+      "amount": 42.99,
+      "category": "Food",
+      "description": "Groceries",
+      "date": "2026-01-31 13:47"
+    }
+  ]
+}
